@@ -1,0 +1,16 @@
+body {
+    margin: auto;
+    font-family: Helvetica;
+    background-color: #EEEEEE;
+}
+
+canvas {
+    padding-left: 10px;
+}
+
+#header {
+    padding-left: 10px;
+    height: 20px;
+    size: 20px;
+}
+
